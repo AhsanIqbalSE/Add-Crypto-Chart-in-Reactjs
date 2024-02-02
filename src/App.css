@@ -1,0 +1,24 @@
+.App {
+  padding: 50px 0;
+}
+.selectCoin {
+  background-color: gray;
+  color: white;
+  padding: 6px 20px;
+  border: none;
+  margin-bottom: 30px;
+}
+.container {
+  max-width: 1200px;
+  padding: 0 15px;
+  margin: auto;
+}
+.tradingview-widget-container {
+  height: 399px;
+}
+.tradingview-widget-copyright {
+  display: none !important;
+}
+#tradingview_dbed6 {
+  height: 100%;
+}
